@@ -113,7 +113,7 @@ hosts, open ports/ banners, and employee names from different public sources. ht
 * **PwnAuth** a web application framework for launching and managing OAuth abuse campaigns. https://github.com/fireeye/PwnAuth
 * **Phishing Frenzy** Ruby on Rails Phishing Framework. https://github.com/pentestgeek/phishing-frenzy
 * **Phishing Pretexts** a library of pretexts to use on offensive phishing engagements. https://github.com/L4bF0x/PhishingPretexts
-* **Dragnet** Phishing sidekick that helps with social engineering scripts for calls. https://github.com/tevora-threat/Dragnet 
+* **Dragnet**  Dragnet collects dozens of OSINT data points on past and present social engineering targets. Then, using conversion data from previous engagements, Dragnet provides recommendations for use on your current targets. https://github.com/tevora-threat/Dragnet 
 
 ### Watering Hole Attack
 * **BeEF** is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser. https://github.com/beefproject/beef
