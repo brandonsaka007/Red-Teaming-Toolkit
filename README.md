@@ -102,6 +102,7 @@ hosts, open ports/ banners, and employee names from different public sources. ht
 * **Ebowla** Framework for Making Environmental Keyed Payloads. https://github.com/Genetic-Malware/Ebowla
 * **make-pdf-embedded** a tool to create a PDF document with an embedded file. https://github.com/DidierStevens/DidierStevensSuite/blob/master/make-pdf-embedded.py
 * **avet** (AntiVirusEvasionTool) is targeting windows machines with executable files using different evasion techniques. https://github.com/govolution/avet
+* **gscript** Gscript is a framework for building multi-tenant executors for several implants in a stager. https://github.com/gen0cide/gscript
 
 ## Delivery
 ### Phishing
