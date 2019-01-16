@@ -26,6 +26,8 @@ ________________________________________________________________________________
 * **Nmap** is used to discover hosts and services on a computer network, thus building a "map" of the network. https://github.com/nmap/nmap
 * **dnsrecon** a tool DNS Enumeration Script. https://github.com/darkoperator/dnsrecon
 * **w3brute** Automatic Web Application Brute Force Attack Tool. https://github.com/aprilahijriyan/w3brute 
+* **gobuster** 
+Gobuster is a tool used to brute-force URIs (directories and files) in web sites. DNS subdomains (with wildcard support). https://github.com/OJ/gobuster 
 
 ### Passive Intelligence Gathering
 * **Social Mapper** OSINT Social Media Mapping Tool, takes a list of names & images (or LinkedIn company name) and performs automated target searching on a huge scale across multiple social media sites. Not restricted by APIs as it instruments a browser using Selenium. Outputs reports to aid in correlating targets across sites. https://github.com/SpiderLabs/social_mapper
